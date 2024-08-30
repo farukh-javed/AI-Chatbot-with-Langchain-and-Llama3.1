@@ -1,8 +1,8 @@
-import streamlit as st
-from langchain_ollama import OllamaLLM
 from langchain.memory import ConversationBufferMemory
+from langchain_ollama import OllamaLLM
 from langchain.chains import ConversationChain
 import streamlit.components.v1 as components
+import streamlit as st
 import requests
 
 def load_lottie_url(url: str):
