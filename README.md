@@ -1,4 +1,3 @@
-```markdown
 # Chatbot
 
 Welcome to the **Chatbot** application! This interactive AI chatbot is built using Streamlit and LangChain, utilizing the Llama3.1 model to facilitate engaging and dynamic conversations. You can customize various settings, such as language, response temperature, and more, to enhance your interaction experience.
