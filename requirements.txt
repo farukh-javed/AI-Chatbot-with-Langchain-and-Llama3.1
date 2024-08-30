@@ -1,0 +1,6 @@
+streamlit
+langchain_ollama
+langchain.memory
+langchain.chains
+streamlit.components.v1
+requests
