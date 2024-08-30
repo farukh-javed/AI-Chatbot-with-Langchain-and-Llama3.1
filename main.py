@@ -1,7 +1,7 @@
 from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationChain
-from langchain_ollama import OllamaLLM
 import streamlit.components.v1 as components
+from langchain_ollama import OllamaLLM
 import streamlit as st
 import requests
 
