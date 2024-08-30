@@ -1,70 +1,53 @@
 # AI Chatbot
 
-Welcome to the **AI Chatbot** application! This interactive AI chatbot is built using Streamlit and LangChain, utilizing the Llama3.1 model to facilitate engaging and dynamic conversations. You can customize various settings, such as language, response temperature, and more, to enhance your interaction experience.
+An interactive AI chatbot built with Streamlit and LangChain, using the Llama3.1 model. Customize your chat experience with multilingual support and various settings.
 
-## 📝 Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
+## 📝 Features
 
-## ✨ Features
-
-- **Multilingual Support**: Chat in multiple languages including English, Urdu, Spanish, and French.
-- **Customizable Response**: Adjust the temperature and response speed for a more tailored experience.
-- **Interactive Animations**: Engage with animated Lottie files for a visually appealing experience.
-- **Conversation History**: Maintains a session-based conversation history for a more personalized chat.
-- **Customizable Chatbot Settings**: Fine-tune chatbot settings, including tone and emoji support, to match your preferences.
+- **Multilingual Support**: English, Urdu, Spanish, French.
+- **Customizable Response**: Adjust temperature and response speed.
+- **Interactive Animations**: Engaging Lottie animations.
+- **Conversation History**: Maintains session-based chat history.
+- **Custom Settings**: Tone and emoji preferences.
 
 ## 🛠 Installation
 
-To get started with the **Chatbot using LangChain and Llama3.1**, follow these steps:
-
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/farukh-javed/Chatbot-using-LangChain-and-Llama3.1.git
+   git clone https://github.com/yourusername/Chatbot-using-LangChain-and-Llama3.1.git
    cd Chatbot-using-LangChain-and-Llama3.1
    ```
 
-2. **Install Required Dependencies**
-   Make sure you have Python 3.7 or above installed. Then, install the necessary packages using `pip`:
+2. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run the Application**
-   Launch the Streamlit app:
+3. **Run the App**
    ```bash
-   streamlit run main.py
+   streamlit run app.py
    ```
 
 ## 🚀 Usage
 
-Once the application is running, you can:
-
-1. **Select Language**: Choose your preferred language from the sidebar.
-2. **Adjust Temperature**: Use the slider to set the response temperature, influencing the creativity of the responses.
-3. **Start Chatting**: Type your message in the chat input box and hit Enter.
-4. **Customize Settings**: Use the "Customize Chatbot" expander to adjust response speed, tone, and emoji preferences.
+1. **Select Language**: Choose from the sidebar.
+2. **Adjust Temperature**: Set the creativity level.
+3. **Start Chatting**: Enter your message and hit Enter.
+4. **Customize**: Use the "Customize Chatbot" section for additional settings.
 
 ## 🎨 Customization
 
-- **Language Selection**: Choose between English, Urdu, Spanish, or French.
-- **Response Temperature**: Adjust the slider for more creative or focused responses.
-- **Tone and Emojis**: Customize the tone of the chatbot's responses and enable or disable emojis for a personalized experience.
+- **Language**: English, Urdu, Spanish, French.
+- **Response Temperature**: Adjust creativity.
+- **Tone & Emojis**: Set response tone and enable emojis.
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please follow these steps:
-
 1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/YourFeature`.
-3. Commit your changes: `git commit -m 'Add your feature'`.
-4. Push to the branch: `git push origin feature/YourFeature`.
-5. Submit a pull request.
+2. Create a new branch.
+3. Commit and push changes.
+4. Submit a pull request.
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+MIT License. See [LICENSE](LICENSE) for details.
