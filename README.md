@@ -1,6 +1,6 @@
-# Chatbot
+# AI Chatbot
 
-Welcome to the **Chatbot** application! This interactive AI chatbot is built using Streamlit and LangChain, utilizing the Llama3.1 model to facilitate engaging and dynamic conversations. You can customize various settings, such as language, response temperature, and more, to enhance your interaction experience.
+Welcome to the **AI Chatbot** application! This interactive AI chatbot is built using Streamlit and LangChain, utilizing the Llama3.1 model to facilitate engaging and dynamic conversations. You can customize various settings, such as language, response temperature, and more, to enhance your interaction experience.
 
 ## 📝 Table of Contents
 - [Features](#features)
@@ -24,7 +24,7 @@ To get started with the **Chatbot using LangChain and Llama3.1**, follow these s
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/Chatbot-using-LangChain-and-Llama3.1.git
+   git clone https://github.com/farukh-javed/Chatbot-using-LangChain-and-Llama3.1.git
    cd Chatbot-using-LangChain-and-Llama3.1
    ```
 
@@ -37,7 +37,7 @@ To get started with the **Chatbot using LangChain and Llama3.1**, follow these s
 3. **Run the Application**
    Launch the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 ## 🚀 Usage
