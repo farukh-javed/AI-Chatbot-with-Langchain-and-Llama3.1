@@ -4,7 +4,7 @@ An interactive AI chatbot built with Streamlit and LangChain, using the Llama3.1
 
 ## 📝 Features
 
-- **Multilingual Support**: English, Urdu, Spanish, French.
+- **Multilingual Support**: English, Urdu, Spanish, French etc.
 - **Customizable Response**: Adjust temperature and response speed.
 - **Interactive Animations**: Engaging Lottie animations.
 - **Conversation History**: Maintains session-based chat history.
