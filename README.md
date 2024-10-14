@@ -14,7 +14,7 @@ An interactive AI chatbot built with Streamlit and LangChain, using the Llama3.1
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/AI-Chatbot-with-Langchain-and-Llama3.1.git
+   git clone https://github.com/farukh-javed/AI-Chatbot-with-Langchain-and-Llama3.1.git
    cd AI-Chatbot-with-Langchain-and-Llama3.1
    ```
 
